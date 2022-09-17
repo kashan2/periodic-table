@@ -1,0 +1,27 @@
+td{
+
+width: 5vw;
+border: 1px solid rgb(224, 22, 22);
+
+text-align: center;
+
+
+
+
+}
+h1{
+    text-shadow: 5px 5px red;
+}
+.NOBORDER{
+
+border: none;
+
+
+}
+
+body{
+
+    background-color: black;
+    color: white;
+}
+
